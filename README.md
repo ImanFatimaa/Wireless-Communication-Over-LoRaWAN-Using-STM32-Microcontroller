@@ -112,11 +112,6 @@ Traditional wireless devices face challenges in **long-range real-time data tran
 
 ---
 
-## System Architecture Diagram
-*(Add diagram here if available)*
-
----
-
 ## Features
 - Low power, long-range wireless communication.
 - Real-time environmental monitoring.
